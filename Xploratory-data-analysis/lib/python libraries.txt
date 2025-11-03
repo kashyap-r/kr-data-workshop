@@ -1,0 +1,24 @@
+Standard Python libraries include
+
+1. Tensorflow (by Google): Used in ML and DL algorithms (primarily used for complex computations in Maths and Physics)
+
+2. Matplotlib: Used for plotting numerical data, used in data analysis
+
+3. Pandas: Important library for data scientists, provides for flexible high-level data structures and a variety of analysis tools.
+
+4. Numpy: Numerical Python, supports large matrices and multi-dimensional data, had built-in mathematical functions
+
+5. Scipy: Scientific Python, for high-level computations
+
+6. Scrapy: Used for extracting data from websites. Provides for very fast web crawling and high-level screen scraping. Used for data mining and automated testing of data
+
+7. Scikit-learn: Used for machine learning, supports various supervised and unsupervised algorithms like linear regression, classification, clustering, etc.
+
+8. Pygame: This library provides an interface to the SDL-Standard Directmedia Library, a platform independent graphics, audio, and input libraries. Used for developing video games using computer graphics and audio libraries.
+
+9. PyTorch: is the largest ML library that optimizes tensor computations with strong GPU acceleration. It also helps to solve application issues related to neural networks.
+
+10. PyBrain: Stands for Python Based Reinforcement learning, Artificial intelligence and Neural Networks library.
+
+
+

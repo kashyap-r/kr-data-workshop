@@ -1,0 +1,3 @@
+Hello, Python!
+Inserted line here
+Appending new line...
