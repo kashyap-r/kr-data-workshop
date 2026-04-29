@@ -1,0 +1,29 @@
+Best Movie datasets 
+    https://imerit.net/resources/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/
+
+Movie data sets for Machine Learning
+
+IMDB Reviews: Ideal for sentiment analysis, this movie data set contains 5,000 movie reviews. The data set has a perfect 10 review in terms of usability by the nearly 7,000 people who’ve downloaded it, making it a perfect data set to test with.
+
+IMDB Film Reviews data set: Designed for binary sentiment classification, this movie data set contains a substantial sum of data than the previous IMDB entry on this list. The data set contains 25,000 highly polar movie reviews for training with another 25,000 for testing. It also contains some unlabeled data and raw text for those looking to cut their teeth in annotation.
+
+MovieLens 25M data set: Collected from the MovieLens website, this movie data set contains 25 million ratings along with one million tag applications that have been applied to over 62,000 movies. 
+
+OMDB API: This web service is a crowdsourced movie database that continuously updates with the most current movies. It contains content and images for various films including over 280,000 posters.
+
+
+Film data set from UCI: Containing over 10,000 films, this movie data set was donated back in 1997 to the University of California, Irvine. It contains information around casting, roles, actors, writers, producers, cinematographers, remakes, and studios involved. 
+
+Cornell Film Review Data: Featuring movie-review data that’s perfect for anyone looking to conduct sentiment-analysis experiments, this body of data contains over 220,000 conversations between 10,000+ pairs of movie characters. 
+
+Full MovieLens data set on Kaggle: This movie data set contains metadata for the 45,000 films that are listed on the Full MovieLens Dataset. Information contained within pertains to films released on or before July 2017 that focuses on cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages. It also contains 26 million ratings from over 270,000 users for every film.
+
+French National Cinema Center data sets: This data set focuses exclusively on french films gathered by the CNC (Centre National du Cinema) and features 33 data sets around movie attendance, television demand, cinematographic practices and establishments, blockbuster films, and more.
+
+Linguistic Data of 32k Film Subtitles with IMBDb Meta-Data: Linguistic data from more than 32,000 films with all meta-data matched to word-count categories from subtitle files.
+
+Movie Industry: This data repository includes 6820 movies (220 movies per year between 1986 and 2016). The following attributes have been intimately detailed from each film: budget, company, year, writer, star, cotes, score, runtime, reviews, release date, rating, name, gross, genre, director, and country. 
+
+Indian Movie Theaters: This data set features intimate knowledge surrounding Indian theaters and their corresponding theatre capacities, screen sizes, average ticket prices, and local coordinates.
+
+Movie Body Counts: This data set contains a tally of the number of on-screen deaths, bodies, kills, and violent action across a slew of classic hollywood sci-fi, fantasy, and action films.
