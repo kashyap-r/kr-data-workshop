@@ -62,3 +62,17 @@ Future improvements
 
 Learnings
     - Mistakes made and learnings 
+
+
+
+----------------------------------------------------------------
+
+Step 1:
+Run "stock_data_download.py"  to download the data 
+
+Step 2:
+Run "backtest.py"
+
+Step 3:
+run "daashboard.py"
+
